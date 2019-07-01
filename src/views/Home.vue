@@ -8,7 +8,7 @@
           </div>
         </el-col>
         <el-col :span="6">
-          <div class="item">唯品购后台管理</div>
+          <div class="item">品优购后台管理</div>
         </el-col>
         <el-col :span="6">
           <div>
@@ -125,7 +125,6 @@
 <script>
 export default {};
 </script>
-
 
 <style>
 .el-header,
